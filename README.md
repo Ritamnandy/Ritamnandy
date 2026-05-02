@@ -21,11 +21,11 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritamnandy&theme=ayu_mirage" alt="Banner" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritamnandy&theme=ayu_mirage" alt="Banner" width="70%"/>
 </p>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ritamnandy&theme=dark&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_height=209" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ritamnandy&theme=dark&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_height=209" alt="GitHub Streak" width="70%"/></a>
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Ritamnandy&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ritam Nandy's GitHub Trophies" />
