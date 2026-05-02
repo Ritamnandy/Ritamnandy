@@ -79,11 +79,7 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ritamnandy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritamnandy&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 ![Top language](https://stats.pphat.top/languages?username=Ritamnandy)
 <br/>
