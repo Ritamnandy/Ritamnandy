@@ -21,10 +21,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Ritamnandy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritamnandy&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Ritamnandy's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Ritamnandy&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Ritamnandy's GitHub Streak" width="49%" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ritamnandy&theme=dark&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_height=209" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Ritamnandy&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ritam Nandy's GitHub Trophies" />
