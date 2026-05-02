@@ -21,6 +21,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritamnandy&theme=ayu_mirage" alt="Banner" />
+</p>
+
+<p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ritamnandy&theme=dark&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_height=209" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
