@@ -1,11 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ritam%20Nandy%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Redis%20%E2%80%A2%20Docker%20%20%20%F0%9F%9A%80&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  
   <a href="https://komarev.com/ghpvc/?username=Ritamnandy">
     <img src="https://komarev.com/ghpvc/?username=Ritamnandy&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ritamnandy's profile views" />
   </a>
-  
 </p>
 
 <img src="e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
@@ -35,21 +33,16 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  
   <a href="https://github.com/Ritamnandy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritamnandy&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Ritamnandy's GitHub Stats" />
   </a>
-  
   <img src="https://streak-stats.demolab.com/?user=Ritamnandy&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ritamnandy's GitHub Streak" width="49%" />
-  
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-<p align="center">
-  
+<p align="center"> 
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritamnandy&theme=tokyonight&radius=10" alt="Ritamnandy's Activity Graph" />
-  
 </p>
 
 
